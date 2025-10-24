@@ -2,3 +2,5 @@
 trabajar archivos local y en la nube
 
 p-actualizacion local
+
+s-actualizacion en la nube (pull)
