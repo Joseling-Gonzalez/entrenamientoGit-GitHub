@@ -6,3 +6,5 @@ p-actualizacion local
 s-actualizacion en la nube (pull)
 
 t-actualizacion en la nube (fetch)
+
+cambios desde mi rama local (developer01) 
