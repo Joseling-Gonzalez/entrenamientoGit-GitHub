@@ -1,0 +1,15 @@
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/bin/Debug/net8.0/proyecto_desde_codespace
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/bin/Debug/net8.0/proyecto_desde_codespace.deps.json
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/bin/Debug/net8.0/proyecto_desde_codespace.runtimeconfig.json
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/bin/Debug/net8.0/proyecto_desde_codespace.dll
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/bin/Debug/net8.0/proyecto_desde_codespace.pdb
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.AssemblyInfoInputs.cache
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.AssemblyInfo.cs
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.csproj.CoreCompileInputs.cache
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.sourcelink.json
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.dll
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/refint/proyecto_desde_codespace.dll
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.pdb
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/proyecto_desde_codespace.genruntimeconfig.cache
+/workspaces/entrenamientoGit-GitHub/proyecto/proyecto_desde_codespace/obj/Debug/net8.0/ref/proyecto_desde_codespace.dll
